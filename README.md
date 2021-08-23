@@ -1,2 +1,2 @@
 # DIO-projetoPratico-instagram
- Página de login do Instagram
+ Projeto prático - Recriando a tela do Instagram
